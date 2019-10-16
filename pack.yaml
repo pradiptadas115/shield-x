@@ -1,0 +1,10 @@
+---
+ref: azure_template_testing
+name: dd_azure_template_creation
+description: Dimension Data Azure template creation
+keywords:
+  - azure
+  - vmcreation
+version: 0.0.1
+author: Dimension Data Australia.
+email: AutomationTeamAU@dimensiondata.com

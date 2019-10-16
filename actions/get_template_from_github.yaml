@@ -1,0 +1,13 @@
+---
+name: azure_template_testing
+pack: azure_template_download
+runner_type: "python-script"
+description: python script to download azure template from github
+enabled: true
+entry_point: get_template_from_github.py
+parameters:
+    template_url:
+        type: string
+        description: python script to download azure template from github
+        required: true
+        position: 1
