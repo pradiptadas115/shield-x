@@ -1,6 +1,6 @@
 ---
 name: azure_template_testing
-pack: dd_azure_template_creation
+pack: azure_template_testing
 runner_type: "python-script"
 description: python script to download azure template from github
 enabled: true

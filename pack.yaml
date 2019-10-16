@@ -1,6 +1,6 @@
 ---
 ref: azure_template_testing
-name: azure_template_testing
+name: dd_azure_template_creation
 description: Dimension Data Azure template creation
 keywords:
   - azure
